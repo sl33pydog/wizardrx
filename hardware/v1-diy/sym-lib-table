@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name wizardview)(type Legacy)(uri ${KIPRJMOD}/../kicad_libs/wizardview.lib)(options "")(descr ""))
+  (lib (name rx5808)(type Legacy)(uri ${KIPRJMOD}/../kicad_libs/rx5808.lib)(options "")(descr ""))
+)
