@@ -1,3 +1,9 @@
+# STOP!
+
+__This project has moved to GitLab:__ https://gitlab.com/PropNuts/wizardrx
+
+__There will be no further updates here.__
+
 # wizardrx
 
 This repository contains the hardware and firmware for the PropNuts WizardRX, a
